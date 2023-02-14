@@ -11,7 +11,8 @@ const getApi2=(req ,res)=>{
     res.status(200).json(req.data);
 
 
-}
+}//dd
 module.exports={  
     getApi,getApi2
 };
+//aknakjnafnn
